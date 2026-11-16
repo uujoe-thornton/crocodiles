@@ -1,0 +1,22 @@
+body {
+    background: #f7f7f;
+    colour: #333333
+    font-family: "Merriweather", serif;
+    sans-serif;
+}
+h1, h2, h3 {
+    font-family: "Merriweather", serif;
+}
+section, header {
+    width: 80%;
+    max-width: 800px;
+    margin: auto;
+
+}
+h1 {font-size: 3.813rem;}
+h2 {font-size:3.063rem;}
+h3 {font-size:2.438rem;}
+
+header p {
+    font-family: "Merriweather", serif;
+}
