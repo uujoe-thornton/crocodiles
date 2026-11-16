@@ -2,5 +2,5 @@
 [Version 1](https://uujoe-thornton.github.io/crocodiles/)
 Createst first HTML page
 
-[Version 2](file:///C:/Users/joeth/Desktop/crocodiles/css/index-2.html)
+[Version 2](https://uujoe-thornton.github.io/crocodiles/index-2)
 Createst second HTML page
