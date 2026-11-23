@@ -64,6 +64,7 @@ a{
 }
 a:hover{
     color:rgb(150, 183, 92)
+    transition: all 0.3s ease-in-out;
 }
 nav{
     display: flex;
@@ -91,7 +92,7 @@ nav a{
     transition: all 0.3s ease-in-out;
 }
 .light{
-    background:rgb(239, 207, 148)
+    background:rgb(227, 194, 133)
     padding: 3rem 0;
 .books ul{
 padding-left: 0;
@@ -104,4 +105,10 @@ list-style-type: none;
 footer{
     text-align: center;
     margin: 4em 0 0em;
+    background:rgba(139, 69, 19, 0.621)
+    padding: 3rem 0;
+}
+footer a:hover{
+    color:darkolivegreen;
+    transition: all 0.3s ease-in-out;
 }
