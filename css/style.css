@@ -16,14 +16,14 @@ section, header {
 }
 h1 {font-size: 3.813rem;
     margin-top: 5em 0 1rem 0;
-    color:saddlebrown
+    color:darkolivegreen
 }
 
 h2 {font-size:3.063rem;
     margin-top:3em 0 1em 0:auto
     font-weight: 300
     font-style: oblique;
-    color:saddlebrown
+    color:darkolivegreen
     }
 h3 {font-size:2.438rem;}
 header p {
@@ -35,6 +35,22 @@ p, blockquote {
     font-style: italic;
     hanging-punctuation: first;
     margin-top: 4em 0 0em;
+}
+/*-- Navigation --*/
+.responsive-nav{
+    background:brown
+    padding-bottom: 10px;
+font-display:flex;
+justify-content:space-between;
+align-items:center;
+}
+#logo{
+    font-size: 2rem;
+    color:darkolivegreen
+font-family: "Merriweather", serif;
+    font-weight: 600;
+padding-left: 35px;
+
 }
 footer{
     text-align: center;
