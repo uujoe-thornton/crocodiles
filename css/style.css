@@ -60,6 +60,17 @@ nav ul{
     text-align: right;
     text-transform: uppercase;
     letter-spacing: 1px;
+    list-style: none;
+    padding-right: 70px;
+}
+nav ul li{
+    display: inline;
+    margin: 5px;
+}
+nav a{
+    border-bottom: none;
+    colour: darkolivegreen;
+    
 }
 footer{
     text-align: center;
