@@ -70,7 +70,7 @@ nav ul li{
 nav a{
     border-bottom: none;
     colour: darkolivegreen;
-    
+    padding: 18px;
 }
 footer{
     text-align: center;
