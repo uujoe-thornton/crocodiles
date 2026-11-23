@@ -50,7 +50,16 @@ align-items:center;
 font-family: "Merriweather", serif;
     font-weight: 600;
 padding-left: 35px;
-
+}
+nav{
+    display: flex;
+   padding: 1.5rem 0;
+   font-size: 0.8rem;
+}
+nav ul{
+    text-align: right;
+    text-transform: uppercase;
+    letter-spacing: 1px;
 }
 footer{
     text-align: center;
